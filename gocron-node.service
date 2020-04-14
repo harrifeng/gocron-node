@@ -3,7 +3,7 @@ Description=Gocron-Node
 
 [Service]
 Type=forking
-ExecStart=/home/fenghaoran/.bin/gocron-node
+ExecStart=REPLACE_USERNAME/.bin/gocron-node
 Restart=on-failure
 
 [Install]
