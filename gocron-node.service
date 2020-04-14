@@ -3,8 +3,7 @@ Description=Gocron-Node
 
 [Service]
 Type=forking
-ExecStart=REPLACE_USERNAME/.bin/gocron-node
-Restart=on-failure
+ExecStart=/usr/local/bin/gocron-node -allow-root
 
 [Install]
-WantedBy=default.target
+WantedBy=multi-user.target
