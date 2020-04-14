@@ -1,0 +1,1 @@
+nohup ./gocron-node &
