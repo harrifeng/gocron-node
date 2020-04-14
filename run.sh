@@ -1,1 +1,1 @@
-nohup ./gocron-node &
+nohup ./gocron-node -allow-root &

@@ -1,9 +1,0 @@
-[Unit]
-Description=Gocron-Node
-
-[Service]
-Type=forking
-ExecStart=/usr/local/bin/gocron-node -allow-root
-
-[Install]
-WantedBy=multi-user.target
