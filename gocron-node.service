@@ -1,0 +1,10 @@
+[Unit]
+Description=Gocron-Node
+
+[Service]
+Type=forking
+ExecStart=/home/REPLACE_USERNAME/.bin/gocron-node
+Restart=on-failure
+
+[Install]
+WantedBy=default.target
