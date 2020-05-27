@@ -1,0 +1,11 @@
+{"_id":8,"start_time":1588053170,"end_time":1590645170,"app_id":2.0,"layer_id":2,"flow":1000,"subexps_num":2,"status":1,"subexps":[3,4],"rule":""}
+{"_id":10,"start_time":1588062377,"end_time":1590654377,"app_id":3,"layer_id":3,"flow":1000,"subexps_num":2,"status":1,"subexps":[5,6],"rule":""}
+{"_id":2,"start_time":1587977908,"end_time":1590569908,"app_id":1,"layer_id":1,"flow":500,"subexps_num":2,"status":0,"subexps":[1,2],"rule":""}
+{"_id":12,"start_time":1588846205,"end_time":1591438205,"app_id":1,"layer_id":1,"flow":1000,"subexps_num":2,"status":1,"subexps":[8,9],"rule":""}
+{"_id":14,"start_time":1589163723,"end_time":1615083723,"app_id":4,"layer_id":4,"flow":1000,"subexps_num":2,"status":1,"subexps":[11,12],"rule":""}
+{"_id":16,"start_time":1589265118,"end_time":1615185118,"app_id":2,"layer_id":5,"flow":1000,"subexps_num":2,"status":1,"subexps":[14,15],"rule":""}
+{"_id":18,"start_time":1589265192,"end_time":1615185192,"app_id":2,"layer_id":6,"flow":1000,"subexps_num":2,"status":1,"subexps":[17,18],"rule":""}
+{"_id":20,"start_time":1590376997,"end_time":1616296997,"app_id":2,"layer_id":7,"flow":1000,"subexps_num":2,"status":0.0,"subexps":[20,21],"rule":"close"}
+{"_id":22,"start_time":1590406272,"end_time":1616326272,"app_id":2,"layer_id":7,"flow":200,"subexps_num":2,"status":1,"subexps":[23,24],"rule":""}
+{"_id":24,"start_time":1590466462,"end_time":1616386462,"app_id":2,"layer_id":8,"flow":1000,"subexps_num":2,"status":1,"subexps":[26,27],"rule":""}
+{"_id":26,"start_time":1590547776,"end_time":1616467776,"app_id":2,"layer_id":9,"flow":1000,"subexps_num":2,"status":1,"subexps":[29,30],"rule":""}

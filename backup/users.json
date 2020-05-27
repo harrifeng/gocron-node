@@ -1,0 +1,6 @@
+{"_id":2,"username":"scoopertest","password":"$2b$12$Nksy.o7fo3/Csa6J9e6DsOCXV7cdzfwb9fSOCvUwrPf3lSiZU4CO2"}
+{"_id":3,"username":"tester2","password":"$2b$12$rAoWvt8yVr8pETlWLKyH2.JN2AQP0vq1KFm4q4T4duHAp0huHnTwe"}
+{"_id":5,"username":"admin","password":"$2b$12$XOLNFAbK9BSbT3uOtDOfSuViB72A1XUiVkm925gLbphtv4o/VegxW","is_admin":true}
+{"_id":6,"username":"root","password":"$2b$12$w7VbNt4RcN7QrDehLXPjWO4KvuZYzgJjXCyIOuYV.a283h/sFRHOi"}
+{"_id":1,"username":"tester","password":"$2b$12$uth81Ky0tL0dHvayyEvMx.ulBBtxl5BDa.tHU5VAzYnG.erszkjJO","is_admin":true}
+{"_id":7,"username":"launcher","password":"$2b$12$NjzzyaTFK8WHMGWESouRyOQJ7/6d7EN2XhdWFl4FVhsXfn71K.Cfm"}

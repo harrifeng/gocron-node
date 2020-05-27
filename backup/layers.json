@@ -1,0 +1,9 @@
+{"_id":1,"name":"top","desc":"description for the top","status":1,"app_id":1}
+{"_id":2,"name":"top for scooper","desc":"top for scooper desc","status":1,"app_id":2.0}
+{"_id":3,"name":"top-for-ps","desc":"description for the top ps","status":1,"app_id":3}
+{"_id":4,"name":"layer-for-launcher","desc":"description for the launcher app","status":1,"app_id":4}
+{"_id":5,"name":"layer-for-scooper-related-layer","desc":"RelateLayer相关推荐层","status":1,"app_id":2}
+{"_id":6,"name":"layer-for-scooper-video-dark-layer","desc":"VideoDarkLayer视频沉浸页推荐层","status":1,"app_id":2}
+{"_id":7,"name":"layer-for-scooper-video-dark-user-freq-layer","desc":"VideoDarkUserFreqABLayer 用户频控层","status":1,"app_id":2}
+{"_id":8,"name":"layer-for-scooper-relate-user-freq","desc":"RelateUserFreqABLayer 相关推荐用户频控层","status":1,"app_id":2}
+{"_id":9,"name":"layer-for-scooper-new-cold-start","desc":"ABLayerNewsColdStart 新文章冷启动层","status":1,"app_id":2}
