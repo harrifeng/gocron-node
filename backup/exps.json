@@ -7,5 +7,6 @@
 {"_id":18,"start_time":1589265192,"end_time":1615185192,"app_id":2,"layer_id":6,"flow":1000,"subexps_num":2,"status":1,"subexps":[17,18],"rule":""}
 {"_id":20,"start_time":1590376997,"end_time":1616296997,"app_id":2,"layer_id":7,"flow":1000,"subexps_num":2,"status":0.0,"subexps":[20,21],"rule":"close"}
 {"_id":22,"start_time":1590406272,"end_time":1616326272,"app_id":2,"layer_id":7,"flow":200,"subexps_num":2,"status":1,"subexps":[23,24],"rule":""}
-{"_id":24,"start_time":1590466462,"end_time":1616386462,"app_id":2,"layer_id":8,"flow":1000,"subexps_num":2,"status":1,"subexps":[26,27],"rule":""}
 {"_id":26,"start_time":1590547776,"end_time":1616467776,"app_id":2,"layer_id":9,"flow":1000,"subexps_num":2,"status":1,"subexps":[29,30],"rule":""}
+{"_id":24,"start_time":1590466462,"end_time":1616386462,"app_id":2,"layer_id":8,"flow":1000,"subexps_num":2,"status":0,"subexps":[26,27],"rule":""}
+{"_id":28,"start_time":1590567211,"end_time":1616487211,"app_id":2,"layer_id":8,"flow":200,"subexps_num":2,"status":1,"subexps":[32,33],"rule":""}
